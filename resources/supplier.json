@@ -1,0 +1,47 @@
+{
+  "data": [
+      {
+          "name" : "Supplier 1",
+          "id": 1,
+          "products": [
+              {
+                  "productName": "Macbook",
+                  "category": "Laptops",
+                  "assetBundleUrl": "AssetBundleUrl",
+                  "previewImageUrl": "previewImageUrl",
+                  "model": "modelUrl"
+              },
+              {
+                "productName": "iPhone",
+                "category": "Mobiles",
+                "assetBundleUrl": "AssetBundleUrl",
+                "previewImageUrl": "previewImageUrl",
+                "model": "modelUrl"
+              }
+          ]
+      },
+      {
+        "name" : "Supplier 2",
+        "id": 2,
+        "products": [
+            {
+                "productName": "iPhone",
+                "category": "Mobiles",
+                "assetBundleUrl": "AssetBundleUrl",
+                "previewImageUrl": "previewImageUrl",
+                "model": "modelUrl"
+            },
+            {
+              "productName": "Macbook",
+              "category": "Laptops",
+              "assetBundleUrl": "AssetBundleUrl",
+              "previewImageUrl": "previewImageUrl",
+              "model": "modelUrl"
+          }
+        ]
+    }
+  ],
+  "categories": [
+      "Laptops", "Accessories", "Mobiles"
+  ]
+}
